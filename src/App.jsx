@@ -7,7 +7,7 @@ const App = () => {
     <>
     <AddPostForm/>
     <PostList/>
-    <p>jgjgjgjgjgjg</p>
+    <h1>hjtjgvbek</h1>
     </>
   )
 }
